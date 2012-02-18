@@ -9,7 +9,12 @@ import java.util.List;
 import org.ihm.layeredpanel.gridpanel.model.EdgeBean;
 import org.ihm.layeredpanel.gridpanel.model.GridModel;
 import org.srv.objets.walls.Wall;
-
+/**
+ * Classe effectuant divers calculs liés aux surfaces
+ * pour les parcels de végétaux
+ * @author Fabrice
+ *
+ */
 public class ShapeUtils {
 
 		public static Boolean isPointInsideWall(Double x, Double y,Wall wall) {
