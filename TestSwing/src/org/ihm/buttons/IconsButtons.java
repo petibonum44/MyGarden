@@ -7,7 +7,7 @@ import java.awt.Rectangle;
 import javax.swing.JToggleButton;
 
 /**
- * Classe générique
+ * Classe générique de bouton
  * @author doc
  *
  */
